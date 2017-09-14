@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_8b254bef3053ab2b9336e95bf07333cd49549797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_26df37f4adcda200d67a191a1871c52f30de9b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_28c2ba741bf7970ddb3a679c7e34a7a765b8a29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_8f5ea8753572ec64ead89e76fbd9c78ab7606d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_02726937264c938742154be420e7e66e338baf6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_e05b73ccbf54dd6c2a0748897a0a578dae741443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0fc237eaee7e6c60737db73881b79bec10875520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_4dd3a97a6db7ccf38115fa84da7d191836998efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_fada19fc1d560638876b47bee6c1e963aa9382d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_df0ddfd38ffdc0dd7d61b2403540198f0fc76a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_fe78d7263ddab3b340bbc7b7889d9194e74749f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_40b523075561e4db91e28b72b045fae01234ed7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_24e6a39bec2950f69d924444d9e00a2bcf0afb0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6c99b4bed8cdcd198ce708d76b988929e1a4dfe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2cec02e043d8022a55ffbbc9a8c6253437209ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_86ec9f708fa1557dfd29ac6a479b8a81e67c590c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f42b3577c799b1c465142f607f43d0ef84471ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_07dde597cb9861fb4046c9acb04d0264c99d0a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_3578057e81cc3575c48534402b11b3356bda7088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_979a84741f703a6accccfe6fc009cfdde5a5001c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_61ba30515325a1031a50ded64cfd180562ec354a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_30d176a6d0b9dd831e3db4926fd628d03c790b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_ebedf59f7b45a19f5bb55e4a29324240967eb154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4f453953d3d9daf4f2fbb4aadef13c434f58fdcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_078a521fb6e07d766744628f955e69e259b6f373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_355023f636091af45c5e886ee342a6c46c0376ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fb018b6ab8bb3ce8cdc811baf1255d6c87300d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_564490d03a0a00ae20cb0bdf436bfad04adaa701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4f3c10ff50ba603963723ca2cc0e6a4e2b7db98e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9580111a874226a9f27a41e09fc0079b93001fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a95c2d2735fef914439f1259db82e2420abbd5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1f25db30cae31adcf95a9372a0c945434cbfc1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_311c9bbb2962a48e7a27655f7579a30e9bd21639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_b5c31e481a3d543a97457130361cbf3f793f1e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_cd3496578c72d6a60a6ed555d9a9886deca93b94.jar" />
+    </item>
+
+</items>
