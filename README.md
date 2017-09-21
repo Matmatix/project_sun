@@ -4,4 +4,3 @@ This app is currently still in development.  So far this app has the following f
 * Date
 * Day of the week
 * Description of the type of day
-* Current temp to 2 decimal places
