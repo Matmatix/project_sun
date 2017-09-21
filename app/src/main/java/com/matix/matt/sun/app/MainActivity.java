@@ -49,7 +49,8 @@ public class MainActivity extends AppCompatActivity{
         if (id == R.id.action_settings) {
 
             getFragmentManager().beginTransaction()
-                    .add(android.R.id.content, new SettingsFragment())
+                    .replace(android.R.id.content, new SettingsFragment())
+                    .addToBackStack(null)
                     .commit();
         }
         //noinspection SimplifiableIfStatement
@@ -96,6 +97,15 @@ public class MainActivity extends AppCompatActivity{
 //        );
 //        AppIndex.AppIndexApi.end(client, viewAction);
 //        client.disconnect();
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (getFragmentManager().getBackStackEntryCount() > 0) {
+            getFragmentManager().popBackStack();
+        } else {
+            super.onBackPressed();
+        }
     }
 
 }

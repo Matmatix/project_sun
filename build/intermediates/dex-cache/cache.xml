@@ -21,6 +21,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_61ba30515325a1031a50ded64cfd180562ec354a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_30d176a6d0b9dd831e3db4926fd628d03c790b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -36,6 +54,24 @@
         revision="24.0.0"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_8f5ea8753572ec64ead89e76fbd9c78ab7606d8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_ebedf59f7b45a19f5bb55e4a29324240967eb154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4f453953d3d9daf4f2fbb4aadef13c434f58fdcd.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_078a521fb6e07d766744628f955e69e259b6f373.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +117,42 @@
         revision="24.0.0"
         sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
         <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_4dd3a97a6db7ccf38115fa84da7d191836998efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_355023f636091af45c5e886ee342a6c46c0376ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fb018b6ab8bb3ce8cdc811baf1255d6c87300d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_564490d03a0a00ae20cb0bdf436bfad04adaa701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4f3c10ff50ba603963723ca2cc0e6a4e2b7db98e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,6 +183,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9580111a874226a9f27a41e09fc0079b93001fc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fbe1cd55d0756602e6d28bb51a2cfc2414a9b27">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b2c0ea9c5325156351feddaa54784fdf97014de2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -126,6 +225,15 @@
         revision="24.0.0"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6c99b4bed8cdcd198ce708d76b988929e1a4dfe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a95c2d2735fef914439f1259db82e2420abbd5f4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,105 +291,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_61ba30515325a1031a50ded64cfd180562ec354a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_30d176a6d0b9dd831e3db4926fd628d03c790b91.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_ebedf59f7b45a19f5bb55e4a29324240967eb154.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4f453953d3d9daf4f2fbb4aadef13c434f58fdcd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_078a521fb6e07d766744628f955e69e259b6f373.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_355023f636091af45c5e886ee342a6c46c0376ce.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fb018b6ab8bb3ce8cdc811baf1255d6c87300d27.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_564490d03a0a00ae20cb0bdf436bfad04adaa701.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4f3c10ff50ba603963723ca2cc0e6a4e2b7db98e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9580111a874226a9f27a41e09fc0079b93001fc4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/matt/Downloads/sun-1.01_hello_world 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a95c2d2735fef914439f1259db82e2420abbd5f4.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
@@ -315,6 +324,15 @@
         revision="24.0.0"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
         <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_cd3496578c72d6a60a6ed555d9a9886deca93b94.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/matt/AndroidStudioProjects/sun-0.1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57991c4861ceafbca68cb8344c309835919df6a1/classes.dex" />
     </item>
 
 </items>

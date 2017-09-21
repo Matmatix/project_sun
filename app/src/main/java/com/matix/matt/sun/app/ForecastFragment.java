@@ -65,7 +65,6 @@ public class ForecastFragment extends Fragment {
             return true;
         }
         else if (id == R.id.action_settings) {
-            Toast.makeText(getActivity(), "Settings selected", Toast.LENGTH_SHORT).show();
             return true;
         }
         return super.onOptionsItemSelected(item);

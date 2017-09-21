@@ -4,7 +4,7 @@ android {
     //compileSdkVersion 21
     //buildToolsVersion "21.1.2"
     compileSdkVersion 24
-    buildToolsVersion '24.0.0'
+    buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId 'com.matix.matt'
         minSdkVersion 11
